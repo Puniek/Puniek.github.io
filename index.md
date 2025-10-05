@@ -1,3 +1,3 @@
-#Ashes of Gaia
+# Ashes of Gaia
 
 [Action Tables](./action-table.md)
